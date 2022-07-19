@@ -10,7 +10,7 @@
     "author": "",
     "license": "MIT",
     "dependencies": {
-        "discord.js": "13.8.1",
+        "discord.js": "14.0.3",
         "dotenv": "16.0.1",
         "glob": "8.0.3"
     },
